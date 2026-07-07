@@ -1,2 +1,21 @@
-"Sandrone": {"gender":"female"},
-"Columbina": {"gender":"female"},
+{
+  "default": {
+    "characters": {
+      "Sandrone": {
+        "gender": "female",
+        "aliases": ["Marionette"]
+      },
+      "Columbina": {
+        "gender": "female",
+        "aliases": ["Damselette"]
+      }
+    }
+  },
+  "49688": {
+    "characters": {
+      "Columbia": {
+        "gender": "female"
+      }
+    }
+  }
+}
