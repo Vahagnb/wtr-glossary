@@ -1,14 +1,14 @@
 {
-  "characters": [
-    {
-      "name": "Sandrone",
-      "aliases": ["Marionette"],
-      "gender": "female"
-    },
-    {
-      "name": "Columbina",
-      "aliases": ["Damselette"],
-      "gender": "female"
+  "default": {
+    "characters": {
+      "Sandrone": {
+        "gender": "female",
+        "aliases": ["Marionette"]
+      },
+      "Columbina": {
+        "gender": "female",
+        "aliases": ["Damselette"]
+      }
     }
-  ]
+  }
 }
