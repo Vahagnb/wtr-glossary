@@ -16,6 +16,8 @@
       "enforcePinnedTermsOnPlainText": true
     },
     "characters": {
+      "Columbia": {"gender":"female", "aliases": ["Columbina"]},
+     "Sandrone": {"gender":"female"},
       "Qi Xu": { "gender": "female", "aliases": ["Asuna", "Invincible Black Whirlwind"] },
       "Magic Boy": { "gender": "male", "aliases": ["Retired Magical Boy", "Magical Boy"] },
       "Awesome Plus": { "gender": "male" },
