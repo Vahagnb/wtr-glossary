@@ -1,0 +1,14 @@
+{
+  "characters": [
+    {
+      "name": "Sandrone",
+      "aliases": ["Marionette"],
+      "gender": "female"
+    },
+    {
+      "name": "Columbina",
+      "aliases": ["Damselette"],
+      "gender": "female"
+    }
+  ]
+}
